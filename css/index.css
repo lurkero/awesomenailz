@@ -1,0 +1,354 @@
+
+body{
+    background-color: rgb(255, 202, 210); 
+    text-align: center;
+}
+
+.firsth6{
+  line-height: 35px;
+  margin-bottom: -8px;
+  font-weight: 400;
+  color: rgb(146, 106, 55);
+}
+   
+
+.navbar-brand img{
+  width: 150px;
+  margin: 10px;
+  margin-right: 30px;
+}
+
+.h{
+  line-height: 60px;
+  font-size: 40;
+}
+
+.h1{
+  font-size: 40;
+  margin-bottom: -5px;
+}
+
+img{
+  width: 100%;
+}
+
+.navbar{
+      position: sticky;
+      z-index: 0;
+      background-color: white;
+      margin-top: 12px;
+}
+
+
+.navbar a{
+     margin: 5px;
+     color: black;
+     margin-left: 10px;
+     font-weight: 700;
+}
+
+a:hover{
+  color: #fff;
+}
+
+.section2{
+  padding: 15px;
+}
+
+footer a:hover{
+  color:  #828286;
+}
+
+
+#background{
+  background-image: url("../photoz/home.jpg"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  margin-top: 1px;
+}
+
+.over{
+    text-align: left;
+    color: black;
+    padding: 50px;
+    font-size: larger;
+    font-weight: 500;
+    line-height: 20px;
+    position: relative;
+    top: 70px;
+
+}
+
+.link{
+  background-color:rgb(255, 202, 210);
+  text-decoration: none;
+  list-style: none;
+  color: black;
+  padding: 10 25px;
+  line-height: 100px;
+  border-radius: 2px;
+  font-weight: 500;
+}
+
+.btnn{
+  background-color:rgb(255, 202, 210);
+  list-style: none;
+  color: black;
+  border-radius: 2px;
+  font-weight: 500;
+}
+
+.btnn:hover{
+  background-color: rgb(160, 97, 33);
+  color: white;
+}
+
+.btnn1{
+  text-align: left;
+  background-color: #b7b7c0;
+}
+
+.form-inline{
+  width: 46%;
+  margin: 7px;
+}
+
+.link-link{
+  background-color:rgb(255, 202, 210);
+  text-decoration: none;
+  list-style: none;
+  color: black;
+  padding: 10 25px;
+  border-radius: 2px;
+}
+
+.link-link:hover{
+  background-color: rgb(160, 97, 33);
+}
+
+.link-shadow{
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.7);
+}
+
+.link:hover{
+  background-color: rgb(160, 97, 33);
+}
+
+.picture-perfect{
+  background-color: #fdfdff;
+}
+
+
+#section2{
+  background-color: white;
+  padding-bottom: 50px;
+}
+
+.align{
+  margin-top: 80px;
+}
+
+.align h1{
+  margin-bottom: 20px;
+}
+
+.hh1{
+  padding: 50px;
+  opacity: 0.9;
+  color:  rgb(146, 106, 55);
+}
+
+#background1{
+  background-image: url("../photoz/picz4.jpg"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  margin-top: 1px;
+  color: white;
+}
+
+#background2{
+  background-image: url("../photoz/picz5.jpg"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  margin-top: 1px;
+  color: white;
+}
+
+#background3{
+  background-image: url("../photoz/picz6.jpg"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  margin-top: 1px;
+  color: white;
+}
+
+#background4{
+  background-image: url("../photoz/picz7.jpg"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  margin-top: 1px;
+  color: white;
+}
+
+#background1 h3{
+  line-height: 480px;
+}
+
+#background2 h3{
+  line-height: 480px;
+}
+
+#background3 h3{
+  line-height: 480px;
+}
+
+#background4 h3{
+  line-height: 480px;
+}
+
+.img img{
+  padding: 5px;
+}
+
+.videoz video{
+  padding: 5px;
+}
+
+
+#section3{
+  background-color: rgba( 0, 0, 0,  .5);
+  background-image: url("../photoz/photo.jpeg");
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  color: white;
+  padding: 100 0px;
+}
+
+.hh2{
+  opacity: 0.7;
+  padding: 30 40px;
+}
+
+
+.pss{
+  background-color: white;
+  color: rgb(119, 92, 80);
+  font-weight: bold;
+}
+
+
+.update{
+  padding: 40px;
+}
+
+/*about section*/
+
+.align-left{
+  text-align: left;
+  padding: 14px;
+  background-color: #fbfbff;
+}
+
+.hh3{
+  color: rgb(146, 106, 55);
+  line-height: 50px;
+}
+
+.ppp{
+  color: rgb(146, 106, 55);
+}
+
+#background5{
+  background-image: url("../photoz/picz.jpg"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 550px;
+  margin-top: 1px;
+}
+
+
+#background6{
+  background-image: url("../photoz/order1.jpg"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+
+#contact{
+  background-color: white;
+}
+
+footer{
+  background-color: white;
+  padding: 20px;
+}
+
+footer a{
+  color: #828286;
+  text-decoration: none;
+  list-style: none;
+  letter-spacing: -1px;
+  padding: 5px;
+ 
+}
+
+.right-border{
+  border-right: 1px solid  #c5c5d6;
+}
+
+footer img{
+  width: 20px;
+  margin: 13px;
+}
+
+.icons{
+  padding: 0;
+  margin: 0;
+}
+
+.designer{
+  font-size: 60px;
+}
+
+.designer1{
+  font-size: 60px;
+}
+
+
+
+    /* Meadia Query */
+@media screen and (max-width: 990px){
+
+
+      .navbar-nav li{
+        text-align: left;
+      }
+
+    .link-link{
+      display: none;
+    }
+
+    .designer{
+      font-size: 40px;
+    }
+    
+
+
+
+}
+
