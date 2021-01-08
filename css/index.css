@@ -385,7 +385,18 @@ footer img{
     .designer{
       font-size: 40px;
     }
-    
+
+
+}
+
+@media screen and (max-width: 460px){
+
+  .form-inline{
+    width: 45%;
+    margin: 7px;
+  }
+
+
 
 
 
