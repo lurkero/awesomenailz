@@ -72,18 +72,21 @@ img{
 }
 
 .navbar{
-      position: sticky;
-      z-index: 0;
-      background-color: white;
-      margin-top: 12px;
+  position: sticky;
+  z-index: 0;
+  background-color: white;
+  margin-top: 12px;
 }
 
-
 .navbar a{
-     margin: 5px;
-     color: black;
-     margin-left: 10px;
-     font-weight: 700;
+  margin: 5px;
+  color: black;
+  margin-left: 10px;
+  font-weight: 700;
+}
+
+.navbar li a:hover{
+  color: rgb(255, 202, 210) !important;
 }
 
 a:hover{
@@ -149,6 +152,12 @@ footer a:hover{
   background-color: #b7b7c0;
 }
 
+.option{
+  border: #c5c5d6 solid 1px;
+  border-radius: 3px;
+  padding: 3px;
+}
+
 .form-inline{
   width: 46%;
   margin: 7px;
@@ -177,6 +186,12 @@ footer a:hover{
 
 .picture-perfect{
   background-color: #fdfdff;
+}
+
+.form-inline{
+  border: 1px solid #c5c5d6;
+  border-radius: 3px;
+  padding: 5 0px;
 }
 
 
@@ -263,6 +278,9 @@ footer a:hover{
   padding: 5px;
 }
 
+#section-position{
+  
+}
 
 #section3{
   background-color: rgba( 0, 0, 0,  .5);
